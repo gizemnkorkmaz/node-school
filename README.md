@@ -1,3 +1,2 @@
 # node-school
-gizem
-yo
+my solutions for the node school challenges.
