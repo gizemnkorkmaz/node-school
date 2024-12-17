@@ -1,1 +1,5 @@
-This repository contains my solutions to various NodeSchool workshops.# node-school
+# learnyounode
+This repository contains my solutions to various NodeSchool workshops.
+
+
+https://nodeschool.io/
